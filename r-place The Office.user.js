@@ -6,8 +6,8 @@
 // @author       Lemoons
 // @match        https://garlic-bread.reddit.com/embed*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @updateURL    https://github.com/lemoonsl/himym/blob/main/r-place%20HIMYM.user.js
-// @downloadURL  https://github.com/lemoonsl/himym/blob/main/r-place%20HIMYM.user.js
+// @updateURL    https://github.com/lemoonsl/R-placeOffice/blob/main/r-place%20The%20Office.user.js
+// @downloadURL  https://github.com/lemoonsl/R-placeOffice/blob/main/r-place%20The%20Office.user.js
 // @require         https://cdn.jsdelivr.net/npm/toastify-js
 // @resource     TOASTIFY_CSS https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css
 // @grant        GM_getResourceText
